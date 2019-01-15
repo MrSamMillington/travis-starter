@@ -1,0 +1,15 @@
+{
+  "name": "travis-starter",
+  "version": "1.0.0",
+  "description": "Notes from learn-travis from github",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "travis",
+    "learn"
+  ],
+  "author": "Sam Millington",
+  "license": "ISC"
+}
